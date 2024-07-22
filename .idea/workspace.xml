@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40881786-e0cb-4d67-93d4-24c11331f7bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Services/NotificationService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Services/ScheduleCustomerBirthdayNotificationService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Services/ScheduleShopAnniNotificationService.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="2jaGzg2CMicOdoiK6issfCTUB8M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Services" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40881786-e0cb-4d67-93d4-24c11331f7bf" name="Default Changelist" comment="" />
+      <created>1721618037510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721618037510</updated>
+      <workItem from="1721618038523" duration="272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="795" y="476" width="319" height="162" key="NewPhpFileDialog" timestamp="1721618299813">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="795" y="476" width="319" height="162" key="NewPhpFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1721618299813" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1721618102946">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1721618102946" />
+  </component>
+</project>
